@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... any of now
 - 📫 How to reach me ... updating
 - 😄 Pronouns: ... He
-- ⚡ Fun fact: ... ¡El Tamal es lo mejor del mundo!
+- ⚡ Fun fact: ... ¡La Huminta es lo mejor del mundo!
 
 <!---
 Frost-Kit/Frost-Kit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
